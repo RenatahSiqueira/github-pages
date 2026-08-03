@@ -1,5 +1,5 @@
 ---
-title: Welcome to my test portfolio.
+title: Welcome to my test blog.
 ---
 
 <h1>Renata Honorato Siqueira</h1>
